@@ -1,0 +1,52 @@
+.card {
+    margin: 15px;
+}
+
+.card-title {
+    color: #121212;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.card-img {
+    display: block;
+    margin: 25px auto;
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+.card-desc {
+    display: block;
+    margin: 0px auto;
+    width: 380px;
+    color: #121212;
+}
+
+.card-email {
+    display: block;
+    margin: 25px auto;
+    border: 3px solid #121212;
+    text-align: center;
+    padding: 5px;
+    color: #121212;
+}
+
+.card-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 210px;
+    background: #121212;
+    color: white;
+    border: 3px solid #121212;
+}
+
+.card-term {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.card-term a {
+    color: #121212;
+}
